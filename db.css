@@ -1,0 +1,32 @@
+input 
+{
+    padding: 10px;
+    margin-top: 5px;
+}
+#style{
+    font-style: italic;
+    color: darkgreen;
+    margin-top: 2in;
+}
+#htable{
+    border-color: darkgreen;
+}    
+body {
+    background-image: URL("Image/leafs.jpeg");
+    background-size: cover;
+}
+.italic {
+    font-style: italic;
+}
+.marginTop { /* For Buttons*/
+    margin-top: 1in;
+}
+#btnLI {
+    margin-top: 5px;
+}
+#btnHome {
+    margin-top: 15px;
+}
+#btnFP {
+    margin-top: 15px;
+}
